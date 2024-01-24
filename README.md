@@ -5,6 +5,7 @@
     <img src="./img/foto.png" alt="Descripción de la imagen" width="800"/>
 
 </div>
+
 |   |   |
 |---|---|
 | **🔭 Currently Working On** | Systems Administration projects, applying DevOps practices to enhance collaboration between development and operations teams. |
