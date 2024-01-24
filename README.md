@@ -2,7 +2,7 @@
 
 
 <div style="text-align:right">
-    <img src="./img/foto.png" alt="Descripción de la imagen" width="800"/>
+    <img src="./img/foto.png" alt="Descripción de la imagen" width="500"/>
 
 </div>
 
