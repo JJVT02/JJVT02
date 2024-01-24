@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Julio Jose 👨‍💻 </h1>
 
 
+<div style="text-align:right">
+    <img src="./img/foto.png" alt="Descripción de la imagen" width="800"/>
 
+</div>
 |   |   |
 |---|---|
 | **🔭 Currently Working On** | Systems Administration projects, applying DevOps practices to enhance collaboration between development and operations teams. |
@@ -12,9 +15,7 @@
 | **📫 Contact Me** | Via email: julio.josev7@gmail.com |
 | **⚡ Fun Fact** | I never settle for the same thing for too long; I am always seeking new goals and challenges to achieve. |
 
-|<div style="text-align:right">
-    <img src="./img/foto.png" alt="Descripción de la imagen" width="500"/>
-</div>
+
 
 <!--
 **JJVT02/JJVT02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
