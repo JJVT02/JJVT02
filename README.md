@@ -1,5 +1,8 @@
-### Soy Julio (JJVT02)
+<h1 align="center">Hi, I'm Julio Jose 👨‍💻 </h1>
 
+<div style="text-align:center">
+    <img src="./img/foto.png" alt="Descripción de la imagen" width="500"/>
+</div>
 <!--
 **JJVT02/JJVT02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
