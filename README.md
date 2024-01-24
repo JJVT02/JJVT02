@@ -2,7 +2,7 @@
 
 <p align="left">
 
-<img src=./img/foto.png alt=image width=450 align=right>
+<img src=./img/foto.png alt=image width=500 align=right>
 
  **🔭 Currently Working On**  Systems Administration projects, applying DevOps practices to enhance collaboration between development and operations teams. 
 
