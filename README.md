@@ -2,8 +2,8 @@
 
 
 
-|   |   | |
-|---|---|---|
+|   |   |
+|---|---|
 | **🔭 Currently Working On** | Systems Administration projects, applying DevOps practices to enhance collaboration between development and operations teams. |
 | **🌱 Learning** | Continuously learning about specific technologies, with a particular emphasis on DevOps methodologies and tools. |
 | **👯 Interested In Collaborating On** | Projects related to systems administration and the implementation of DevOps methodologies. |
